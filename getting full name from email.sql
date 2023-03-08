@@ -1,5 +1,5 @@
  create table email(email varchar(max))
-		insert into email  values ('devansh.khatri@oracle.com'),('anshul.khatri@hdfcbank.com'),('mohini.nama@celebaltech.com'),('deepanker.panchal@google.com')	
+		insert into email  values ('devansh.khatri@celeb.com'),('anshul.khatri@hdfcbank.com'),('mohini.nama@celebaltech.com'),('deepanker.panchal@google.com')	
 		select * from email
 
 		SELECT
